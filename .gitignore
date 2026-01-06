@@ -1,0 +1,13 @@
+# Virtual Environments
+venv/
+dca_venv/
+env/
+__pycache__/
+*.pyc
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS Junk
+.DS_Store

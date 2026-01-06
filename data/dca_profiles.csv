@@ -1,0 +1,4 @@
+dca_id,max_capacity,current_load,success,sla
+DCA_TOP,50,0,0.85,0.95
+DCA_STANDARD,100,0,0.7,0.9
+DCA_BULK,200,0,0.55,0.85
